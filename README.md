@@ -2,8 +2,11 @@
 
 Simple discord bot / discord chat bot with AI functionality, this offers a interesting aspect to the use of the bot. Inspired by Spacehuhn's Huhnbot. Go check him out! https://github.com/SpacehuhnTech/ https://spacehuhn.com/ 
 
-# Usage, if cloning!
+`Ignore Procfile, requirements.txt and runtime.txt files as these are for Heroku Server!`
+
+# Usage,!
 ```
+pip3 install -r requirements.txt
 python3
 import nltk
 nltk.download('omw-1.4')
