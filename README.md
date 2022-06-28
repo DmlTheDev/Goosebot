@@ -4,8 +4,9 @@ Simple discord bot / discord chat bot with AI functionality, this offers a inter
 
 `Ignore Procfile, requirements.txt and runtime.txt files as these are for Heroku Server!`
 
-# Usage, if cloning!
+# Usage,!
 ```
+pip3 install -r requirements.txt
 python3
 import nltk
 nltk.download('omw-1.4')
