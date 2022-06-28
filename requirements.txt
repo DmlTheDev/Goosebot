@@ -7,6 +7,5 @@ discord.py==1.7.3
 distlib==0.3.4
 neuralintents==0.0.4
 nltk==3.7
-pywin32==302
 
 
