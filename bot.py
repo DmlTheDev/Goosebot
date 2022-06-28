@@ -33,15 +33,6 @@ async def on_message(message):
         response = chatbot.request(message.content[9:])
         await message.channel.send(response)
 
-# def token():
-#     global TOKEN
-#     f=open(TOKEN_FILE, 'r')
-#     data = f.readline()
-#     TOKEN = data
-#     print(TOKEN)
-#     f.close()
-    
-
 
 #Main Program
 start_message() 
