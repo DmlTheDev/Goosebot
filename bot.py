@@ -40,6 +40,6 @@ async def on_message(message):
 start_message() 
 
 
-#Discord Program Start {bottom}
+#Discord Program Start {bottom!} 
 
 client.run(TOKEN)
