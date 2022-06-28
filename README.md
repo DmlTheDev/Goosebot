@@ -2,7 +2,7 @@
 
 Simple discord bot / discord chat bot with AI functionality, this offers a interesting aspect to the use of the bot. Inspired by Spacehuhn's Huhnbot. Go check him out! https://github.com/SpacehuhnTech/ https://spacehuhn.com/ 
 
-:::Ignore Procfile, requirements.txt and runtime.txt files as these are for Heroku Server! :::
+`Ignore Procfile, requirements.txt and runtime.txt files as these are for Heroku Server!`
 
 # Usage, if cloning!
 ```
