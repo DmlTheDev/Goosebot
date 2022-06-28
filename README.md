@@ -8,5 +8,5 @@ python3
 import nltk
 nltk.download('omw-1.4')
 exit()
-python3 Huhnbot.py
+python3 bot.py
 ```
