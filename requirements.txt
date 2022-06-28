@@ -89,7 +89,6 @@ pyOpenSSL==22.0.0
 pyotp==2.6.0
 pyparsing==3.0.9
 pyperclip==1.8.2
-pypiwin32==223
 PyRect==0.1.48
 pywin32==302
 pywin32-ctypes==0.2.0
